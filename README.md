@@ -16,3 +16,5 @@ A financial ROI and cash flow model evaluating a 5-year commercial freezer retro
 * Engineered a dynamic multi-year chronological column chart tracking cash flow turns from Year 0 baseline investment through Year 5 payback.
 * Configured custom scalar KPI cards with explicit integer un-rounding and localized currency formatting to present precise financial figures to stakeholders.
 * Structured relational financial data to ensure real-time metric updates across all visual elements without relying on static text or manual edits.
+
+![image alt](https://github.com/Jacobymurch/freezer-retrofit-roi-dashboard/blob/63aec930ae85474a0a7c074b494b8f1cd27af772/Freezer%20ROI.pdf)
